@@ -1,0 +1,19 @@
+# Gradle build artifacts
+build
+.gradle
+
+# jacoco artifacts
+jacoco/
+
+# Javadocs
+docs
+
+# NetBeans
+.nb-gradle
+.nb-gradle-properties
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+logs/
